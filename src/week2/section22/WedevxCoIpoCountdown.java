@@ -1,6 +1,6 @@
-package week2.section22.Wedevx;
+package week2.section22;
 
-public class main {
+public class WedevxCoIpoCountdown {
     public static void main(String[] args) {
         int seconds = 10;
 
