@@ -1,4 +1,4 @@
-package week3.section22;
+package week3.section23;
 
 public class TipsToLevelUpYourProblemSolvingSkills {
 
